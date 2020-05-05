@@ -1,0 +1,1 @@
+D:/wamp64/www/minymart/vendor/magento/module-variable/view/adminhtml/web/variables.js

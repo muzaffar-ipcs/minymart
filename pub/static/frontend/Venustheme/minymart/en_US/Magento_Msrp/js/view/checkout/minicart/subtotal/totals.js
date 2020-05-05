@@ -1,0 +1,1 @@
+D:/wamp64/www/minymart/vendor/magento/module-msrp/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

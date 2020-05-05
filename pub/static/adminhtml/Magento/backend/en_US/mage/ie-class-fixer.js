@@ -1,0 +1,1 @@
+D:/wamp64/www/minymart/lib/web/mage/ie-class-fixer.js

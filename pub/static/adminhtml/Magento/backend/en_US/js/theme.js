@@ -1,0 +1,1 @@
+D:/wamp64/www/minymart/vendor/magento/theme-adminhtml-backend/web/js/theme.js
