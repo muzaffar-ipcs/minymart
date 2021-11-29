@@ -1,1 +1,0 @@
-D:/wamp64/www/minymart/lib/web/mage/apply/scripts.js

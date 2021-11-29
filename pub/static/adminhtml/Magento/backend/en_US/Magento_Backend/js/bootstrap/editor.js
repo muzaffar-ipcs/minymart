@@ -1,1 +1,0 @@
-D:/wamp64/www/minymart/vendor/magento/module-backend/view/adminhtml/web/js/bootstrap/editor.js

@@ -1,1 +1,0 @@
-D:/wamp64/www/minymart/lib/web/tiny_mce/themes/advanced/editor_template_src.js

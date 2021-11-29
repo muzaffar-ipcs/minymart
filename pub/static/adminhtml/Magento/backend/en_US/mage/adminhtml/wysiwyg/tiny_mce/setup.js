@@ -1,1 +1,0 @@
-D:/wamp64/www/minymart/lib/web/mage/adminhtml/wysiwyg/tiny_mce/setup.js

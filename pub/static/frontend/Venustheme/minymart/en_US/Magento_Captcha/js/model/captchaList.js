@@ -1,1 +1,0 @@
-D:/wamp64/www/minymart/vendor/magento/module-captcha/view/frontend/web/js/model/captchaList.js

@@ -1,1 +1,0 @@
-D:/wamp64/www/minymart/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js

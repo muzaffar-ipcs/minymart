@@ -1,1 +1,0 @@
-D:/wamp64/www/minymart/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js
